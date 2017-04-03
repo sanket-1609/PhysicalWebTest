@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1491193675 source:d:\my work\physicalwebtest2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<limits>
+	<cmath>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491196658 source:d:\my work\physicalwebtest\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+
